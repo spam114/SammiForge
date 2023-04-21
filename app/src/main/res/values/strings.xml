@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">삼미금속</string>
+    <string name="service_address_login">http://211.245.239.53:2232/Service/json/</string><!--LoginService-->
+    <string name="service_address">http://211.245.239.53:2229/Service/json/</string>
+    <string name="app_code">10</string>
+    <string name="developer">JH LEE</string>
+    <string name="website">https://github.com/spam114</string>
+
+    <string name="menu1">금형관리</string>
+    <string name="menu2">수선 사진등록</string>
+
+    <string name="menu1_eng">Mold management</string>
+    <string name="menu2_eng">Registration of repair</string>
+    <string name="qr_state_common">TAG를 인식해주세요 (Please Scan TAG)</string>
+
+    <string name="menu_group_communicate">Communicate</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_send">Send</string>
+
+</resources>
